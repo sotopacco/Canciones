@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Canciones</string>
+    <string name="JPop">JPpop</string>
+    <string name="Electronica">Electronica</string>
+    <string name="Metal">Metal</string>
+    <string name="Intrumental">Intrumental</string>
+    <string name="Gotic">Gotic</string>
+    <string name="GENERO">GENERO</string>
+    <string name="astop">astop</string>
+
+    <string name="megumin">megumin</string>
+    <string name="tomoko">tomoko</string>
+    <string name="vivi">vivi</string>
+    <string name="kaori">kaori</string>
+    <string name="toshiro">toshiro</string>
+
+    <string name="JPop1">JPpop1</string>
+    <string name="JPop2">JPpop2</string>
+    <string name="JPop3">JPpop3</string>
+    <string name="JPop4">JPpop4</string>
+    <string name="JPop5">JPpop5</string>
+
+    <string name="Electronica1">Electronica1</string>
+    <string name="Electronica2">Electronica2</string>
+    <string name="Electronica3">Electronica3</string>
+    <string name="Electronica4">Electronica4</string>
+    <string name="Electronica5">Electronica5</string>
+
+    <string name="Instrumental1">Instrumental1</string>
+    <string name="Instrumental2">Instrumental2</string>
+    <string name="Instrumental3">Instrumental3</string>
+    <string name="Instrumental4">Instrumental4</string>
+    <string name="Instrumental5">Instrumental5</string>
+
+    <string name="Gotic1">Gotic1</string>
+    <string name="Gotic2">Gotic2</string>
+    <string name="Gotic3">Gotic3</string>
+    <string name="Gotic4">Gotic4</string>
+    <string name="Gotic5">Gotic5</string>
+
+    <string name="Mmetal1">Mmetal1</string>
+    <string name="Mmetal2">Mmetal2</string>
+    <string name="Mmetal3">Mmetal3</string>
+    <string name="Mmetal4">Mmetal4</string>
+    <string name="Mmetal5">Mmetal5</string>
+
+
+    <string name="mirai_nikki_yousei_teikoku_kuusou_mesorogiwi">Mirai Nikki - Yousei teikoku \'kuusou Mesorogiwi\'</string>
+    <string name="fullmetal_alchemist_yui_again_shoty_ver">Fullmetal Alchemist / Yui \'again shoty ver\'</string>
+    <string name="evangelion_yoko_takahashi_zankoku_na_tenshi">Evangelion / Yoko Takahashi \'ZANKOKU NA TENSHI\'</string>
+    <string name="sword_art_online_lisa_crossing_field">Sword Art Online / Lisa \'Crossing Field\'</string>
+    <string name="naruto_sign_flow">Naruto / Sign \'Flow\'</string>
+
+    <string name="BabeMetal_Gimme_chocolate">BabeMetal_Gimme_chocolate</string>
+    <string name="Rammstein_Deutschland">Rammstein_Deutschland</string>
+    <string name="Papa_roach_last_resort_">Papa_roach_last_resort_</string>
+    <string name="System_of_Down_Chow_suey">System_of_Down_Chow_suey</string>
+    <string name="Maximum_whats_Up_">Maximum_whats_Up_</string>
+
+    <string name="Yuki_Kajura_Sword">Yuki_Kajura_Sword</string>
+    <string name="Two_Steps_From_Hell_Star_Sky">Two_Steps_From_Hell_Star_Sky</string>
+    <string name="Andre_Rieu_The_Lonely_Shepherd">Andre_Rieu_The_Lonely_Shepherd</string>
+    <string name="Hiroyuki_Sawano_Vogel">Hiroyuki_Sawano_Vogel</string>
+    <string name="Yuki_Kajiura_Sand_Dream">Yuki_Kajiura_Sand_Dream</string>
+
+    <string name="Within_Temptation_Somewhere">Within_Temptation_Somewhere</string>
+    <string name="Trees_Of_Eternity_Black_Ocean_Somewhere">Trees_Of_Eternity_Black_Ocean_Somewhere</string>
+    <string name="LEAVES_EYES_My_Destiny">LEAVES_EYES_My_Destiny</string>
+    <string name="Lacuna_Coil_Daylight_Dancer">Lacuna_Coil_Daylight_Dancer</string>
+    <string name="The_Cure_Lullaby">The_Cure_Lullaby</string>
+
+
+</resources>
